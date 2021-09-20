@@ -1,4 +1,4 @@
-package com.example.neightborhooftalk
+package com.example.neighborhoodtalk
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

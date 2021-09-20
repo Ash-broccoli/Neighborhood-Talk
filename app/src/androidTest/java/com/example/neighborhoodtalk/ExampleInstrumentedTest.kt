@@ -1,4 +1,4 @@
-package com.example.neightborhooftalk
+package com.example.neighborhoodtalk
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
