@@ -7,3 +7,5 @@ This is a second app im working on. Basically following another tutorial since I
 still getting into the basics of android studio.
 <br>
 This app in a Neighborhood chatting app
+<br>
+Ngl this project is abandoned lol
